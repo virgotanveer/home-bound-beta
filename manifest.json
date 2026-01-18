@@ -1,0 +1,17 @@
+{
+  "name": "Homebound",
+  "short_name": "Homebound",
+  "description": "Smart daily reminders for bringing items home.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/25/25694.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

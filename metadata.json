@@ -1,0 +1,5 @@
+{
+  "name": "Homebound",
+  "description": "A smart, fluid daily reminder app for things you need to bring home, featuring intuitive swipe gestures and cloud sync.",
+  "requestFramePermissions": []
+}
